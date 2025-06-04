@@ -51,7 +51,7 @@ Sample HR data includes the following fields:
 
 ##  Dashboard Screenshot
 
-![HR Dashboard Screenshot](Screenshot 2025-06-04 212353.png)
+![HR Dashboard Screenshot](images/Screenshot 2025-06-04 212353.png)
 
 
 ##  How to Use

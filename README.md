@@ -32,10 +32,10 @@ The dashboard offers insights into:
 ##  Dataset Fields
 
 Sample HR data includes the following fields:
-- `Emp ID`
-- `Name`, `Gender`, `Date of Join`
-- `Job Title`, `Education Qualification`
-- `Salary`, `Leave Balance`
+- Emp ID,
+- Name,`Gender,`Date of Join
+- Job Title, `Education Qualification
+- Salary, Leave Balance
 
 ##  Insights Derived
 
@@ -51,7 +51,8 @@ Sample HR data includes the following fields:
 
 ##  Dashboard Screenshot
 
-![HR Dashboard Screenshot](images/Screenshot 2025-06-04 212353.png)
+![HR Dashboard Screenshot](![Screenshot 2025-05-25 131846](https://github.com/user-attachments/assets/847d27e9-9401-4478-ba86-35cd2a8de64c)
+)
 
 
 ##  How to Use

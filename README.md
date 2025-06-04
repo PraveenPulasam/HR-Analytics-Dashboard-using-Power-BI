@@ -51,8 +51,8 @@ Sample HR data includes the following fields:
 
 ##  Dashboard Screenshot
 
-![HR Dashboard Screenshot](![Screenshot 2025-05-25 131846](https://github.com/user-attachments/assets/847d27e9-9401-4478-ba86-35cd2a8de64c)
-)
+![HR Dashboard Screenshot](https://github.com/PraveenPulasam/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR%20Dash%20board.png)
+
 
 
 ##  How to Use
